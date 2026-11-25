@@ -1,13 +1,13 @@
-package com.triangle.triangleClassfier;
+package com.triangle.classifier;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TriangleClassfierApplication {
+public class TriangleClassifierApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TriangleClassfierApplication.class, args);
+		SpringApplication.run(TriangleClassifierApplication.class, args);
 	}
 
 }
